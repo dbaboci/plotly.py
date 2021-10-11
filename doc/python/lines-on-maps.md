@@ -54,7 +54,7 @@ fig.show()
 
 ### Lines on Maps from GeoPandas
 
-Given a GeoPandas geo-data frame with `linestring` or `multilinestring` features, one can extra point data and use `px.line_geo()`.
+Given a GeoPandas geo-data frame with `linestring` or `multilinestring` features, one can extrapolate data and use `px.line_geo()`.
 
 ```python
 import plotly.express as px
